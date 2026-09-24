@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Reddit',
+			icon: 'user-group',
+			link: 'https://reddit.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Facebook Marketplace',
+			icon: 'store',
+			link: 'https://www.facebook.com/marketplace/sydney/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Living Expenses',
+			icon: 'banknote-arrow-down',
+			link: 'https://docs.google.com/spreadsheets/d/1ww-PNhjTRMKyJSoBCreZ5pF6UI0U099paSofAGl5rbQ/edit?gid=1#gid=1',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Google Docs',
+			icon: 'square-text',
+			link: 'https://docs.google.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Medical Results',
+			icon: 'clipboard-plus',
+			link: 'https://docs.google.com/spreadsheets/d/1vKu_qmdtL2bjJn53ySQlLFsfxg6PsOM_WUaZBh-X6UE/edit?pli=1&gid=430705497#gid=430705497',
 		},
 	],
 
