@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.aliexpress.com/',
 				},
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Bookmarks (Brave)',
+					link: 'brave://bookmarks/',
 				},
 			],
 		},
