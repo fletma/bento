@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Mark',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -139,42 +139,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NTS',
+					link: 'https://www.nts.live/',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://youtu.be/ENVxylS0ew4',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Background Music',
+					link: 'https://youtu.be/w0oCWt3XVqI',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ambient Techno',
+					link: 'https://youtu.be/pe48NBlt4cA',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'wallpaper',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'GitHub',
+					link: 'https://github.com/fletma',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Maps',
+					link: 'https://maps.google.com.au',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'AliExpress',
+					link: 'https://www.aliexpress.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Spotify',
+					link: 'https://www.spotify.com',
 				},
 			],
 		},
