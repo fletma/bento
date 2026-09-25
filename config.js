@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://www.aliexpress.com/',
 				},
 				{
-					name: 'Bookmarks (Brave)',
-					link: 'brave://bookmarks/',
+					name: 'MarketIndex',
+					link: 'https://www.marketindex.com.au/',
 				},
 			],
 		},
